@@ -16,7 +16,7 @@
 🌟 I'm a passionate **developer, designer, and lifelong learner** from India, crafting clean, intelligent, and user-first web experiences.
 
 - 🧠 Currently exploring AI + Web for next-gen UX  
-- 🛠️ Building smart interfaces with **React**, **Python**, and **Machine Learning**  
+- 🛠️ Building responsive interfaces and powerful backends with **React**, **Node.js**, and modern web technologies.  
 - 🎨 Designing seamless UIs using **Figma** 
 - ✍️ Writing about code, creativity, and building cool things
 
